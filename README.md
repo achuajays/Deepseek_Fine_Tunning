@@ -1,6 +1,3 @@
-# README.md
-
-```markdown
 # DeepSeek Fine-Tuning for Film Review Sentiment Analysis
 
 This project demonstrates how to fine-tune the **DeepSeek LLM** using **Low-Rank Adaptation (LoRA)** and 4-bit quantization for memory-efficient training. The model is applied to analyze sentiment in film reviews, showcasing how AI can be adapted for specific tasks.
@@ -114,6 +111,3 @@ After running `main.py`, the script will:
 ---
 
 Enjoy exploring and fine-tuning AI for sentiment analysis!
-```
-
-This README covers all essential aspects of the project, from setup to usage, ensuring clarity for contributors and users alike. Let me know if you'd like further adjustments!
